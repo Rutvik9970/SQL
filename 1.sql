@@ -1,0 +1,1 @@
+CREATE DATABASE Student_Database;
